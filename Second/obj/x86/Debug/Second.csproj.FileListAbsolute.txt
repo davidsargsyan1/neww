@@ -1,0 +1,6 @@
+/Users/David/Projects/Second/Second/bin/Debug/Second.exe
+/Users/David/Projects/Second/Second/bin/Debug/Second.pdb
+/Users/David/Projects/Second/Second/obj/x86/Debug/Second.csprojAssemblyReference.cache
+/Users/David/Projects/Second/Second/obj/x86/Debug/Second.csproj.CoreCompileInputs.cache
+/Users/David/Projects/Second/Second/obj/x86/Debug/Second.exe
+/Users/David/Projects/Second/Second/obj/x86/Debug/Second.pdb
